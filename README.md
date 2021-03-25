@@ -13,6 +13,6 @@ This project will carry out a machine learning process but is based on PHP progr
 <b>Result Website (Features)</b>
 * Simple Visualization
 ![alt text](https://github.com/nazhanHarzula/Machine-Learning-Based-On-PHP/blob/main/screenshot_website/Confusion Matrix.JPG?raw=true)
-* Confusion Metric
+* Confusion Metric s
 * Input & Required
 * Result Prediction
