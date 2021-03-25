@@ -13,6 +13,9 @@ This project will carry out a machine learning process but is based on PHP progr
 <b>Result Website (Features)</b>
 * Simple Visualization
 ![alt text](https://github.com/nazhanHarzula/Machine-Learning-Based-On-PHP/blob/main/screenshot_website/simple_visualization.JPG?raw=true)
-* Confusion Metric s
+* Confusion Metric
+![alt text](https://github.com/nazhanHarzula/Machine-Learning-Based-On-PHP/blob/main/screenshot_website/confusion_matrix.JPG?raw=true)
 * Input & Required
+![alt text](https://github.com/nazhanHarzula/Machine-Learning-Based-On-PHP/blob/main/screenshot_website/input_and_required.JPG?raw=true)
 * Result Prediction
+![alt text](https://github.com/nazhanHarzula/Machine-Learning-Based-On-PHP/blob/main/screenshot_website/result_prediction.JPG?raw=true)
