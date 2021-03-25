@@ -9,3 +9,10 @@ This project will carry out a machine learning process but is based on PHP progr
   <li>Installing library : `composer require php-ai/php-ml`</li>
 </ul>  
 <i>After all the requirements have been fulfilled, we can carry out the machine learning process directly on our system</i>
+
+<b>Result Website (Features)</b>
+* Simple Visualization
+![alt text](https://github.com/nazhanHarzula/Machine-Learning-Based-On-PHP/blob/main/screenshot_website/Confusion Matrix.JPG?raw=true)
+* Confusion Metric
+* Input & Required
+* Result Prediction
